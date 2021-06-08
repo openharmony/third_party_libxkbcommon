@@ -63,6 +63,20 @@ Note:If the text contains special characters, please escape them according to th
                 <filteritem type="filename" name="README"/>
                 <filteritem type="filename" name="keysym-utf.c" desc="未使用"/>
                 <filteritem type="filepath" name="test/.*" desc="未使用"/>
+                <filteritem type="filename" name="src/xkbcomp/parser-priv.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/parser.y" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/action.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/ast-build.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/types.c" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/expr.c" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/vmod.c" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/expr.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/vmod.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/xkbcomp-priv.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/include.h" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/xkbcomp/keycodes.c" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/atom.c" desc="该文件使用的是MIT协议"/>
+                <filteritem type="filename" name="src/text.c" desc="该文件使用的是MIT协议"/>
             </filefilter>
             <filefilter name="copyrightPolicyFilter" desc="Filters for copyright header policies" >
                 <filteritem type="filename" name="README.OpenSource"/>
